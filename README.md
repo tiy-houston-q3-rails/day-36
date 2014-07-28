@@ -16,3 +16,17 @@ Map
 * Create an HTML page, with a map on it, inside a Rails app
 * Map out some places on the map, can be fun or real
 * BONUS: search for places, and add to map
+
+[Sample Map](http://codepen.io/jwo/pen/LEIiD)
+[Ruby Geocoder](http://www.rubygeocoder.com/)
+[Leaflet](http://leafletjs.com/)
+[JSON Stack Viewer](http://jsonviewer.stack.hu/)
+[Chrome JSON Viewer](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
+[HTTParty](http://johnnunemaker.com/httparty/)
+[JSONLint](http://jsonlint.com/) - Formats JSON
+
+Other Ruby HTTP Clients
+-----------------
+
+* https://github.com/toland/patron
+* https://github.com/lostisland/faraday
